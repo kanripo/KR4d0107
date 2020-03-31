@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 龍雲集
-#+DATE: 2020-03-31 11:34:11.119173
+#+DATE: 2020-03-31 11:34:11.370745
 #+PROPERTY: ID KR4d0107
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR4d0107_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -80,7 +80,7 @@
 　　和重陽感懐¶
 ¶
 　　又逢佳節破牢愁天巻微雲盡放秋一水孤飛臨汝槳¶
-幾人清興庾公樓螢𦝫亂試林塘㸃蠅陣微收几案稠¶
+幾人清興庾公樓螢腰亂試林塘㸃蠅陣微收几案稠¶
 黄菊紅茰滿烏帽椒丘誰是醉鄉謀¶
 ¶
 　　次韻酬錫逺孤坐有懷¶
